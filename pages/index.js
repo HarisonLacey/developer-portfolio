@@ -1,6 +1,5 @@
-
-import Nav from ".././Components/Nav.js";
-import Layout from ".././Components/Layout.js";
+import Header from ".././Components/Nav";
+import Layout from ".././Components/Layout";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -9,7 +8,7 @@ import Col from "react-bootstrap/Col";
 
 const Home = () => (
   <Layout>
-    <Nav
+    <Header
       name="About"
       link1="/projects"
       name1="Projects"

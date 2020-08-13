@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Nav from ".././Components/Nav";
+import Header from ".././Components/Nav";
 import Layout from ".././Components/Layout";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -9,7 +9,7 @@ import Col from "react-bootstrap/Col";
 
 const Projects = () => (
   <Layout>
-    <Nav
+    <Header
       name="Projects"
       link1="/"
       name1="Home"
