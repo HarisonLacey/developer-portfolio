@@ -7,7 +7,7 @@ import Col from "react-bootstrap/Col";
 
 // Page showing the projects I have completed so far
 
-export default () => (
+const Projects = () => (
   <Layout>
     <Nav
       name="Projects"
@@ -24,7 +24,6 @@ export default () => (
         <Col md={9}>
           <div className="top">
             <Link
-              className
               href="https://github.com/HarisonLacey?tab=repositories"
             >
               <a>
@@ -35,7 +34,7 @@ export default () => (
           </div>
           <hr />
           <div>
-            <Link className href="https://search-your-medium.herokuapp.com/">
+            <Link href="https://search-your-medium.herokuapp.com/">
               <a>
                 <h4>iTunes Search API</h4>
               </a>
@@ -44,7 +43,7 @@ export default () => (
           </div>
           <hr />
           <div>
-            <Link className href="https://reacttwentyone.herokuapp.com/">
+            <Link href="https://reacttwentyone.herokuapp.com/">
               <a>
                 <h4>21 Card Game</h4>
               </a>
@@ -53,7 +52,7 @@ export default () => (
           </div>
           <hr />
           <div>
-            <Link className href="https://harisonlacey.github.io/online-store/">
+            <Link href="https://harisonlacey.github.io/online-store/">
               <a>
                 <h4>Online Store with Checkout Cart</h4>
               </a>
@@ -78,3 +77,5 @@ export default () => (
     `}</style>
   </Layout>
 );
+
+export default Projects;

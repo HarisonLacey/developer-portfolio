@@ -1,5 +1,6 @@
-import Nav from ".././Components/Nav";
-import Layout from ".././Components/Layout";
+
+import Nav from ".././Components/Nav.js";
+import Layout from ".././Components/Layout.js";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
