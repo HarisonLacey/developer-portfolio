@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Header from ".././Components/Nav";
+import Header from "../components/Navigation";
 import Layout from ".././Components/Layout";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
