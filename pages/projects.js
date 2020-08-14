@@ -37,7 +37,7 @@ const Projects = () => (
           <div>
             <Link href="https://search-your-medium.herokuapp.com/">
               <a>
-                <h4>iTunes Search API</h4>
+                <h4>Music Search Application</h4>
               </a>
             </Link>
             <h5>Search application built with React.js and Express.js</h5>
@@ -46,7 +46,7 @@ const Projects = () => (
           <div>
             <Link href="https://reacttwentyone.herokuapp.com/">
               <a>
-                <h4>21 Card Game</h4>
+                <h4>Card Game</h4>
               </a>
             </Link>
             <h5>Card Game built with React.js</h5>
@@ -55,7 +55,7 @@ const Projects = () => (
           <div>
             <Link href="https://harisonlacey.github.io/online-store/">
               <a>
-                <h4>Online Store with Checkout Cart</h4>
+                <h4>Online Store</h4>
               </a>
             </Link>
             <h5>Online store built with JavaScript, HTML and Bootstrap</h5>
@@ -67,7 +67,7 @@ const Projects = () => (
     <style jsx>{`
       .left {
         border-right: solid 1px lightgrey;
-        height: 50rem;
+        height: 90rem;
       }
       a {
         cursor: pointer;

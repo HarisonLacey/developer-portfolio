@@ -40,7 +40,7 @@ const Contact = () => (
     <style jsx>{`
       .left {
         border-right: solid 1px lightgrey;
-        height: 50rem;
+        height: 90rem;
       }
       a {
         cursor: pointer;
