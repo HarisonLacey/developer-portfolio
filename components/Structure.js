@@ -12,6 +12,7 @@ const Layout = (props) => (
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
         crossorigin="anonymous"
       />
+      <link rel="icon" href="/heart.png"></link>
       <script
         async
         src="https://www.googletagmanager.com/gtag/js?id=UA-175432296-1"

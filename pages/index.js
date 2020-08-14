@@ -45,11 +45,10 @@ const Home = () => (
         </Col>
         <Col md={9}>
           <div className="bio">
-           <div className="biocon">
-           Full stack web developer with a love for design.
-          <img className="heart" src="/heart.png" alt="heart" />
-           </div>
-          
+            <div className="biocon">
+              Full stack web developer with a love for design.
+              <img className="heart" src="/heart.png" alt="heart" />
+            </div>
           </div>
           <hr />
           <h4 className="title">Experience</h4>
@@ -59,12 +58,17 @@ const Home = () => (
             <h5>Hyperli</h5>
             <h5 className="bottom">Nov 2016 - May 2020</h5>
             <p>
-            <em>Hyperli is a daily discount eCommerce website</em><br /><br />
-- First six employees<br />
-- Daily newsletter creation<br />
-- Quality assurance<br />
-- Daily deal creation<br />
-- Daily deal planning
+              <em>Hyperli is a daily discount eCommerce website</em>
+              <br />
+              <br />
+              - First six employees
+              <br />
+              - Daily newsletter creation
+              <br />
+              - Quality assurance
+              <br />
+              - Daily deal creation
+              <br />- Daily deal planning
             </p>
           </div>
           <hr />
@@ -73,9 +77,10 @@ const Home = () => (
             <h5>Groupon</h5>
             <h5 className="bottom">Jun 2016 - Nov 2016</h5>
             <p>
-            - Worked with the city planning team<br />
-- Account management<br />
-- Lead management
+              - Worked with the city planning team
+              <br />
+              - Account management
+              <br />- Lead management
             </p>
           </div>
           <hr />
@@ -84,10 +89,12 @@ const Home = () => (
             <h5>Groupon</h5>
             <h5 className="bottom">Mar 2016 - May 2016</h5>
             <p>
-            - Worked with the city planning team<br />
-- Account management<br />
-- Lead management<br />
-- Received employee of the month award while still an intern
+              - Worked with the city planning team
+              <br />
+              - Account management
+              <br />
+              - Lead management
+              <br />- Received employee of the month award while still an intern
             </p>
           </div>
           <hr />
@@ -98,10 +105,13 @@ const Home = () => (
             <h5>Full Stack Web Developer Bootcamp</h5>
             <h5 className="bottom">2020 - 2020</h5>
             <p>
-            - Building full stack web applications<br />
-- MongoDB, Express.js, React.js, Node.js<br />
-- HTML, CSS, Bootstrap<br />
-- Web APIs, Server and Database Architecture, Google Analytics
+              - Building full stack web applications
+              <br />
+              - MongoDB, Express.js, React.js, Node.js
+              <br />
+              - HTML, CSS, Bootstrap
+              <br />- Web APIs, Server and Database Architecture, Google
+              Analytics
             </p>
           </div>
           <hr />

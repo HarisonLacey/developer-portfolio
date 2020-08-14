@@ -24,9 +24,7 @@ const Projects = () => (
         </Col>
         <Col md={9}>
           <div className="top">
-            <Link
-              href="https://github.com/HarisonLacey?tab=repositories"
-            >
+            <Link href="https://github.com/HarisonLacey?tab=repositories">
               <a>
                 <h4>GitHub Repo.</h4>
               </a>
