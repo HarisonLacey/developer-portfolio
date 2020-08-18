@@ -46,7 +46,7 @@ const Home = () => (
         <Col md={9}>
           <div className="bio">
             <div className="biocon">
-              Full stack web developer with a love for design.
+              Full stack web developer with operations experience and a love for design.
               <img className="heart" src="/heart.png" alt="heart" />
             </div>
           </div>
