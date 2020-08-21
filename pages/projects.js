@@ -25,7 +25,7 @@ const Projects = () => (
         <Col md={9}>
           <div className="top">
             <Link href="https://github.com/HarisonLacey?tab=repositories">
-              <a>
+              <a target="_blank">
                 <h4>GitHub Repo.</h4>
               </a>
             </Link>
@@ -33,7 +33,7 @@ const Projects = () => (
           <hr />
           <div>
             <Link href="https://thnk-tnk.herokuapp.com/">
-              <a>
+              <a target="_blank">
                 <h4>Message Sharing Application</h4>
               </a>
             </Link>
@@ -41,7 +41,7 @@ const Projects = () => (
           <hr />
           <div>
             <Link href="https://search-your-medium.herokuapp.com/">
-              <a>
+              <a target="_blank">
                 <h4>Music Search Application</h4>
               </a>
             </Link>
@@ -49,7 +49,7 @@ const Projects = () => (
           <hr />
           <div>
             <Link href="https://reacttwentyone.herokuapp.com/">
-              <a>
+              <a target="_blank">
                 <h4>Card Game</h4>
               </a>
             </Link>
@@ -57,7 +57,7 @@ const Projects = () => (
           <hr />
           <div>
             <Link href="https://harisonlacey.github.io/online-store/">
-              <a>
+              <a target="_blank">
                 <h4>Online Store</h4>
               </a>
             </Link>
