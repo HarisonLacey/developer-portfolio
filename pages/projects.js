@@ -29,7 +29,14 @@ const Projects = () => (
                 <h4>GitHub Repo.</h4>
               </a>
             </Link>
-            <h5>Contains a few past projects</h5>
+          </div>
+          <hr />
+          <div>
+            <Link href="https://thnk-tnk.herokuapp.com/">
+              <a>
+                <h4>Message Sharing Application</h4>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
@@ -38,7 +45,6 @@ const Projects = () => (
                 <h4>Music Search Application</h4>
               </a>
             </Link>
-            <h5>Search application built with React.js and Express.js</h5>
           </div>
           <hr />
           <div>
@@ -47,7 +53,6 @@ const Projects = () => (
                 <h4>Card Game</h4>
               </a>
             </Link>
-            <h5>Card Game built with React.js</h5>
           </div>
           <hr />
           <div>
@@ -56,7 +61,6 @@ const Projects = () => (
                 <h4>Online Store</h4>
               </a>
             </Link>
-            <h5>Online store built with JavaScript, HTML and Bootstrap</h5>
           </div>
         </Col>
       </Row>
