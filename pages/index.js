@@ -40,6 +40,7 @@ const Home = () => (
               <h4>Google Analytics</h4>
               <h4>Next.js</h4>
               <h4>Git</h4>
+              <h4>Session & JWT Authentication</h4>
             </div>
           </div>
         </Col>
@@ -105,12 +106,17 @@ const Home = () => (
             <h5>Full Stack Web Developer Bootcamp</h5>
             <h5 className="bottom">2020 - 2020</h5>
             <p>
+              - 99% Final Grade
+              <br />
               - Building full stack web applications
               <br />
               - MongoDB, Express.js, React.js, Node.js
               <br />
-              - HTML, CSS, Bootstrap
-              <br />- Web APIs, Server and Database Architecture, Google
+              - HTML, CSS, JavaScript, Bootstrap
+              <br />
+              - Session & JWT Authentication
+              <br />
+              - RESTful API, Server and Database Architecture, Google
               Analytics
             </p>
           </div>
