@@ -34,7 +34,7 @@ const Home = () => (
               <h4>HTML</h4>
               <h4>CSS</h4>
               <h4>Bootstrap</h4>
-              <h4>Web APIs</h4>
+              <h4>RESTful API</h4>
               <h4>Server Architecture</h4>
               <h4>Database Design</h4>
               <h4>Google Analytics</h4>
