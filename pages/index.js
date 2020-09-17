@@ -47,7 +47,8 @@ const Home = () => (
         <Col md={9}>
           <div className="bio">
             <div className="biocon">
-              Full stack web developer with operations experience and a love for design.
+              Junior full stack web developer with operations experience and a
+              love for design.
               <img className="heart" src="/heart.png" alt="heart" />
             </div>
           </div>
@@ -115,8 +116,7 @@ const Home = () => (
               - HTML, CSS, JavaScript, Bootstrap
               <br />
               - Session & JWT Authentication
-              <br />
-              - RESTful API, Server and Database Architecture, Google
+              <br />- RESTful API, Server and Database Architecture, Google
               Analytics
             </p>
           </div>
