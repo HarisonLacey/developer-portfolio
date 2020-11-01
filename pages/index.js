@@ -48,7 +48,7 @@ const Home = () => (
           <div className="bio">
             <div className="biocon">
               Learning Technologist at Construct and Junior Web Developer with
-              operations experience.
+              Operations Experience.
             </div>
           </div>
           <hr />
