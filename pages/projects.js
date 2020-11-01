@@ -70,7 +70,8 @@ const Projects = () => (
               </a>
             </Link>
           </div>
-          <p style="margin-top: 2%">*View projects on laptop</p>
+          <hr />
+          <p>*View projects on laptop</p>
         </Col>
       </Row>
     </Container>

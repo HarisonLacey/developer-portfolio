@@ -47,13 +47,19 @@ const Home = () => (
         <Col md={9}>
           <div className="bio">
             <div className="biocon">
-              Junior full stack web developer with operations experience and a
-              love for design.
+              Learning Technologist at Construct and Junior Web Developer with
+              operations experience.
               <img className="heart" src="/heart.png" alt="heart" />
             </div>
           </div>
           <hr />
           <h4 className="title">Experience</h4>
+          <hr />
+          <div className="top">
+            <h5>Learning Technologist</h5>
+            <h5>Construct</h5>
+            <h5 className="bottom">Oct 2020 - Present</h5>
+          </div>
           <hr />
           <div className="top">
             <h5>Operations Planner</h5>
