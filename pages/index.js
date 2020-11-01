@@ -49,7 +49,6 @@ const Home = () => (
             <div className="biocon">
               Learning Technologist at Construct and Junior Web Developer with
               operations experience.
-              <img className="heart" src="/heart.png" alt="heart" />
             </div>
           </div>
           <hr />
@@ -152,7 +151,7 @@ const Home = () => (
       }
       .left {
         border-right: solid 1px lightgrey;
-        height: 90rem;
+        height: 100rem;
       }
       .bio {
         padding-top: 3%;
