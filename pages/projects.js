@@ -37,6 +37,7 @@ const Projects = () => (
                 <h4>Website User Authentication System</h4>
               </a>
             </Link>
+            <h6>Blueprint for website user authentication system.</h6>
           </div>
           <hr />
           <div>
@@ -45,6 +46,7 @@ const Projects = () => (
                 <h4>THNK TNK Message Sharing</h4>
               </a>
             </Link>
+            <h6>Message sharing application.</h6>
           </div>
           <hr />
           <div>
@@ -53,6 +55,7 @@ const Projects = () => (
                 <h4>Search Your Medium</h4>
               </a>
             </Link>
+            <h6>Music search application.</h6>
           </div>
           <hr />
           <div>
@@ -61,6 +64,7 @@ const Projects = () => (
                 <h4>Card Game</h4>
               </a>
             </Link>
+            <h6>Card game.</h6>
           </div>
           <hr />
           <div>
@@ -69,6 +73,7 @@ const Projects = () => (
                 <h4>Online Store</h4>
               </a>
             </Link>
+            <h6>Online store with functional shopping cart.</h6>
           </div>
           <hr />
         </Col>
