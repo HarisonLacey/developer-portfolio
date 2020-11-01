@@ -26,13 +26,13 @@ const Projects = () => (
           <div className="top">
             <Link href="https://github.com/HarisonLacey?tab=repositories">
               <a target="_blank">
-                <h4>GitHub Repo.</h4>
+                <h4>GitHub Repository</h4>
               </a>
             </Link>
           </div>
           <hr />
           <div>
-            <Link href="https://website-user-auth-system.herokuapp.com/">
+            <Link href="https://github.com/HarisonLacey/website-user-auth-system">
               <a target="_blank">
                 <h4>Website User Authentication System</h4>
               </a>
@@ -40,7 +40,7 @@ const Projects = () => (
           </div>
           <hr />
           <div>
-            <Link href="https://thnk-tnk.herokuapp.com/">
+            <Link href="https://github.com/HarisonLacey/thnk-tnk-message-sharing">
               <a target="_blank">
                 <h4>Message Sharing Application</h4>
               </a>
@@ -48,7 +48,7 @@ const Projects = () => (
           </div>
           <hr />
           <div>
-            <Link href="https://search-your-medium.herokuapp.com/">
+            <Link href="https://github.com/HarisonLacey/search-your-medium">
               <a target="_blank">
                 <h4>Music Search Application</h4>
               </a>
@@ -56,7 +56,7 @@ const Projects = () => (
           </div>
           <hr />
           <div>
-            <Link href="https://reacttwentyone.herokuapp.com/">
+            <Link href="https://github.com/HarisonLacey/card-game">
               <a target="_blank">
                 <h4>Card Game</h4>
               </a>
@@ -64,14 +64,13 @@ const Projects = () => (
           </div>
           <hr />
           <div>
-            <Link href="https://harisonlacey.github.io/online-store/">
+            <Link href="https://github.com/HarisonLacey/online-store">
               <a target="_blank">
                 <h4>Online Store</h4>
               </a>
             </Link>
           </div>
           <hr />
-          <p>*View projects on laptop</p>
         </Col>
       </Row>
     </Container>
