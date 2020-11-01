@@ -23,7 +23,6 @@ const Projects = () => (
           <div className="left"></div>
         </Col>
         <Col md={9}>
-          <p>*View projects on laptop</p>
           <div className="top">
             <Link href="https://github.com/HarisonLacey?tab=repositories">
               <a target="_blank">
@@ -71,6 +70,7 @@ const Projects = () => (
               </a>
             </Link>
           </div>
+          <p style="margin-top: 2%">*View projects on laptop</p>
         </Col>
       </Row>
     </Container>
