@@ -42,7 +42,7 @@ const Projects = () => (
           <div>
             <Link href="https://github.com/HarisonLacey/thnk-tnk-message-sharing">
               <a target="_blank">
-                <h4>Message Sharing Application</h4>
+                <h4>THNK TNK Message Sharing</h4>
               </a>
             </Link>
           </div>
@@ -50,7 +50,7 @@ const Projects = () => (
           <div>
             <Link href="https://github.com/HarisonLacey/search-your-medium">
               <a target="_blank">
-                <h4>Music Search Application</h4>
+                <h4>Search Your Medium</h4>
               </a>
             </Link>
           </div>
