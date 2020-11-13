@@ -32,6 +32,15 @@ const Projects = () => (
           </div>
           <hr />
           <div>
+            <Link href="https://github.com/HarisonLacey/the-sour-lemon-movie-reviews">
+              <a target="_blank">
+                <h4>The Sour Lemon</h4>
+              </a>
+            </Link>
+            <h6>Movie review website.</h6>
+          </div>
+          <hr />
+          <div>
             <Link href="https://github.com/HarisonLacey/website-user-auth-system">
               <a target="_blank">
                 <h4>Website User Authentication System</h4>
