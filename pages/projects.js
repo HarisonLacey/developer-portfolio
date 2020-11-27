@@ -24,65 +24,96 @@ const Projects = () => (
         </Col>
         <Col md={9}>
           <div className="top">
+            <h4>GitHub Repository</h4>
             <Link href="https://github.com/HarisonLacey?tab=repositories">
               <a target="_blank">
-                <h4>GitHub Repository</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
           </div>
           <hr />
           <div>
+            <h4>The Sour Lemon</h4>
             <Link href="https://github.com/HarisonLacey/the-sour-lemon-movie-reviews">
               <a target="_blank">
-                <h4>The Sour Lemon</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Movie review website.</h6>
+            <Link href="https://the-sour-lemon.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
+            <h4>Website User Authentication System</h4>
             <Link href="https://github.com/HarisonLacey/website-user-auth-system">
               <a target="_blank">
-                <h4>Website User Authentication System</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Blueprint for website user authentication system.</h6>
+            <Link href="https://website-user-auth-system.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
+            <h4>THNK TNK Message Sharing</h4>
             <Link href="https://github.com/HarisonLacey/thnk-tnk-message-sharing">
               <a target="_blank">
-                <h4>THNK TNK Message Sharing</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Message sharing application.</h6>
+            <Link href="https://thnk-tnk.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
+            <h4>Search Your Medium</h4>
             <Link href="https://github.com/HarisonLacey/search-your-medium">
               <a target="_blank">
-                <h4>Search Your Medium</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Music search application.</h6>
+            <Link href="https://search-your-medium.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
+            <h4>Card Game</h4>
             <Link href="https://github.com/HarisonLacey/card-game">
               <a target="_blank">
-                <h4>Card Game</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Card game.</h6>
+            <Link href="https://reacttwentyone.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
+            <h4>Online Store</h4>
             <Link href="https://github.com/HarisonLacey/online-store">
               <a target="_blank">
-                <h4>Online Store</h4>
+                <h6>GitHub</h6>
               </a>
             </Link>
-            <h6>Online store with functional shopping cart.</h6>
+            <Link href="https://harisonlacey.github.io/online-store/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
         </Col>
@@ -96,6 +127,9 @@ const Projects = () => (
       }
       a {
         cursor: pointer;
+        color: black;
+      }
+      h4 {
         color: skyblue;
       }
       .top {

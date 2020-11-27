@@ -28,7 +28,7 @@ const Home = () => (
               <hr />
               <h4>MongoDB</h4>
               <h4>Express.js</h4>
-              <h4>React.js</h4>
+              <h4>React</h4>
               <h4>Node.js</h4>
               <h4>JavaScript</h4>
               <h4>HTML</h4>
@@ -112,11 +112,11 @@ const Home = () => (
             <h5>Full Stack Web Developer Bootcamp</h5>
             <h5 className="bottom">2020 - 2020</h5>
             <p>
-              - 99% Final Grade
+              - Completed with a Final Grade of 99%
               <br />
-              - Building full stack web applications
+              - Building & Deploying Full Stack Web Applications
               <br />
-              - MongoDB, Express.js, React.js, Node.js
+              - MongoDB, Express.js, React, Node.js
               <br />
               - HTML, CSS, JavaScript, Bootstrap
               <br />
