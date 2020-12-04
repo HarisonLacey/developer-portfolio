@@ -33,6 +33,20 @@ const Projects = () => (
           </div>
           <hr />
           <div>
+            <h4>Personal Website</h4>
+            <Link href="https://github.com/HarisonLacey/personal-website">
+              <a target="_blank">
+                <h6>GitHub</h6>
+              </a>
+            </Link>
+            <Link href="https://harison-lacey.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
+          </div>
+          <hr />
+          <div>
             <h4>The Sour Lemon</h4>
             <Link href="https://github.com/HarisonLacey/the-sour-lemon-movie-reviews">
               <a target="_blank">
