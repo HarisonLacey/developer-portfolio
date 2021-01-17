@@ -39,6 +39,11 @@ const Projects = () => (
                 <h6>GitHub</h6>
               </a>
             </Link>
+            <Link href="https://coffee-elite.herokuapp.com/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
           </div>
           <hr />
           <div>
