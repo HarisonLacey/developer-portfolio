@@ -32,6 +32,15 @@ const Projects = () => (
             </Link>
           </div>
           <hr />
+          <div className="top">
+            <h4>CoffeeElite</h4>
+            <Link href="https://github.com/HarisonLacey/CoffeeElite">
+              <a target="_blank">
+                <h6>GitHub</h6>
+              </a>
+            </Link>
+          </div>
+          <hr />
           <div>
             <h4>Personal Website</h4>
             <Link href="https://github.com/HarisonLacey/personal-website">
