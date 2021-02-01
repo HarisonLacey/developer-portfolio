@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-This is my Developer Portfolio built using React and Next.js.
+This is my Developer Portfolio built from scratch using React and Next.js.
 
 ## Installation 
 
