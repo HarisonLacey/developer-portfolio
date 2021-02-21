@@ -118,21 +118,19 @@ const Home = () => (
             <p>
               - Completed with a Final Grade of 99%
               <br />
-              - Building & Deploying Full Stack Web Applications
+              - Level 1: Web Development Essentials | HTML, CSS, Bootstrap,
+              JavaScript, jQuery
               <br />
-              - MongoDB, Express.js, React, Node.js
-              <br />
-              - HTML, CSS, JavaScript, Bootstrap
-              <br />
-              - Session & JWT Authentication
-              <br />- RESTful API, Server and Database Architecture, Google
-              Analytics
+              - Level 2: Back-End Web Development | Git, Advanced JavaScript,
+              React, Express.js
+              <br />- Level 3: Full Stack Web Development | Databases, MongoDB,
+              Next.js, Authentication, Analytics
             </p>
           </div>
           <hr />
           <div className="top">
             <h5>Bristol Institute of Modern Music</h5>
-            <h5>BA(Hons) Professional Musicianship</h5>
+            <h5>Bachelor of Arts with Honours in Professional Musicianship</h5>
             <h5 className="bottom">2011 - 2014</h5>
           </div>
           <hr />
