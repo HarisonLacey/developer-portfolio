@@ -58,6 +58,10 @@ const Home = () => (
             <h5>Learning Technologist</h5>
             <h5>Construct</h5>
             <h5 className="bottom">Oct 2020 - Present</h5>
+            <p>
+              - Building online courses using Learning Managment Systems
+              <br />- Using HTML, CSS and JavaScript to create custom content
+            </p>
           </div>
           <hr />
           <div className="top">
