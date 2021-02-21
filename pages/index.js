@@ -26,21 +26,22 @@ const Home = () => (
             <div className="skills">
               <h3 className="skilltitle">Skills</h3>
               <hr />
-              <h4>MongoDB</h4>
-              <h4>Express.js</h4>
-              <h4>React</h4>
-              <h4>Node.js</h4>
-              <h4>JavaScript</h4>
               <h4>HTML</h4>
               <h4>CSS</h4>
               <h4>Bootstrap</h4>
-              <h4>RESTful API</h4>
-              <h4>Server Architecture</h4>
-              <h4>Database Design</h4>
-              <h4>Google Analytics</h4>
-              <h4>Next.js</h4>
+              <h4>JavaScript</h4>
+              <h4>jQuery</h4>
               <h4>Git</h4>
-              <h4>Session & JWT Authentication</h4>
+              <h4>React</h4>
+              <h4>Express.js</h4>
+              <h4>Databases</h4>
+              <h4>MongoDB</h4>
+              <h4>Next.js</h4>
+              <h4>Authentication</h4>
+              <h4>Analytics</h4>
+              <h4>Node.js</h4>
+              <h4>JWT</h4>
+              <h4>Styled-Components</h4>
             </div>
           </div>
         </Col>
@@ -59,7 +60,7 @@ const Home = () => (
             <h5>Construct</h5>
             <h5 className="bottom">Oct 2020 - Present</h5>
             <p>
-              - Building online courses using Learning Managment Systems
+              - Using various LMSs to build online courses
               <br />- Using HTML, CSS and JavaScript to create custom content
             </p>
           </div>
@@ -77,9 +78,7 @@ const Home = () => (
               - Daily newsletter creation
               <br />
               - Quality assurance
-              <br />
-              - Daily deal creation
-              <br />- Daily deal planning
+              <br />- Daily deal creation & planning
             </p>
           </div>
           <hr />
