@@ -32,7 +32,21 @@ const Projects = () => (
             </Link>
           </div>
           <hr />
-          <div className="top">
+          <div>
+            <h4>VinylHouse</h4>
+            <Link href="https://github.com/HarisonLacey/VinylHouse">
+              <a target="_blank">
+                <h6>GitHub</h6>
+              </a>
+            </Link>
+            <Link href="https://vinyl-house.vercel.app/">
+              <a target="_blank">
+                <h6>View</h6>
+              </a>
+            </Link>
+          </div>
+          <hr />
+          <div>
             <h4>CoffeeElite</h4>
             <Link href="https://github.com/HarisonLacey/CoffeeElite">
               <a target="_blank">
