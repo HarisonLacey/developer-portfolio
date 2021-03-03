@@ -21,7 +21,7 @@ const Home = () => (
         <Col md={3}>
           <div className="left">
             <div>
-              <img className="image" src="/profile.jpg" alt="profile" />
+              <img className="image" src="/newprofile.jpg" alt="profile" />
             </div>
             <div className="skills">
               <h3 className="skilltitle">Skills</h3>
